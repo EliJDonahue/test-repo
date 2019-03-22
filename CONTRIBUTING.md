@@ -50,3 +50,5 @@ Create a new Issue from the **Question** template. Be sure to include a descript
 
 ### Are you looking for resources?
 
+## Attribution
+These contribution guidelines are based on the [Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md).
