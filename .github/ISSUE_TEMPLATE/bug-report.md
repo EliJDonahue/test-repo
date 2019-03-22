@@ -33,6 +33,10 @@ assignees: ''
 - [ ] Chrome 
 - [ ] Edge 
 
+### Project Version
+**What version of this project are you using? Ex: v1.1.0**
+
+
 ### Additional Details
 <!-- Optional. -->
 
