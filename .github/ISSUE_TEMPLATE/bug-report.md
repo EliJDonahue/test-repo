@@ -43,5 +43,3 @@ assignees: ''
 
 ## Collaboration
 **Are you willing to collaborate on this feature? Ex: sharing code, submitting a pull request, testing, etc.**
-
-
