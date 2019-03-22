@@ -28,6 +28,7 @@ assignees: ''
 * Service pack(s): <!-- SP0 | SP1 | SP2 | etc... -->
 
 ### Browsers
+<!-- Type an x into the square brackets to check the box. -->
 - [ ] Internet Explorer 11
 - [ ] Firefox ESR 
 - [ ] Chrome 
