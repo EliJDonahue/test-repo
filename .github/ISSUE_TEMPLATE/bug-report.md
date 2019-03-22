@@ -8,13 +8,15 @@ assignees: ''
 ---
 
 ## Expected Behavior
+**How you expect the project to work?**
 
 
 ## Actual Behavior
+**What is the project actually doing?**
 
 
 ## Steps to Reproduce 
-<!-- The more specific the steps are, the more helpful the issue is! -->
+**How can we test this issue?**
 1. 
 2. 
 3. 
@@ -33,5 +35,12 @@ assignees: ''
 ### Additional Details
 <!-- Optional. -->
 
-## Workaround 
-<!-- Optional. -->
+
+## Workaround / Solution
+**Have you found a workaround or solution to this issue?**
+
+
+## Collaboration
+**Are you willing to collaborate on this feature? Ex: sharing code, submitting a pull request, testing, etc.**
+
+
