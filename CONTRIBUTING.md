@@ -1,3 +1,5 @@
+# Contribution Guidelines & FAQ
+
 ## How to Contribute
 
 ### Did you find a bug?
@@ -48,7 +50,11 @@ Changes that are cosmetic in nature and do not add anything substantial to the u
 
 Create a new Issue from the **Question** template. Be sure to include a descriptive title and any details or screenshots needed to support your question.
 
-### Are you looking for resources?
+## Contributor Resources
+
+### Project Resources
+
+### Technical Resources
 
 ## Attribution
 These contribution guidelines are based on the [Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md).
